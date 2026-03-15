@@ -14,7 +14,7 @@
         "url": "https://github.com/jchen0824/claude-github-devex.git"
       },
       "description": "GitHub DX tools: automated Codex code review loops and PR workflow automation",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "strict": true
     }
   ]
