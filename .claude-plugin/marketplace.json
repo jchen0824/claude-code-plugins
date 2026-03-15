@@ -1,0 +1,21 @@
+{
+  "name": "jchen0824-claude-plugins",
+  "owner": {
+    "name": "jchen0824"
+  },
+  "metadata": {
+    "description": "GitHub developer experience plugins for Claude Code"
+  },
+  "plugins": [
+    {
+      "name": "github-devex",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/jchen0824/claude-github-devex.git"
+      },
+      "description": "GitHub DX tools: automated Codex code review loops and PR workflow automation",
+      "version": "1.0.0",
+      "strict": true
+    }
+  ]
+}
