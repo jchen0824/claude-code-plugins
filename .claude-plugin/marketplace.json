@@ -16,6 +16,16 @@
       "description": "GitHub DX tools: automated Codex code review loops and PR workflow automation",
       "version": "1.0.2",
       "strict": true
+    },
+    {
+      "name": "marketing",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/jchen0824/claude-marketing.git"
+      },
+      "description": "Marketing video tooling: AI video generation with Seedance 2.0 — director-style prompts, multimodal references, ModelArk API automation, and post-production",
+      "version": "1.0.0",
+      "strict": true
     }
   ]
 }
